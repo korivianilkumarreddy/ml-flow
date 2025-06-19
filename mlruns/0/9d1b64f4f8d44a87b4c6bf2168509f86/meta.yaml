@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9d1b64f4f8d44a87b4c6bf2168509f86/artifacts
+end_time: 1750300158354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d1b64f4f8d44a87b4c6bf2168509f86
+run_name: calm-vole-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750300158269
+status: 3
+tags: []
+user_id: koriv

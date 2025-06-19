@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d47d8713a1c24d23a32e8bf74b71a3b1/artifacts
+end_time: 1750258091907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d47d8713a1c24d23a32e8bf74b71a3b1
+run_name: magnificent-goat-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750258091829
+status: 3
+tags: []
+user_id: koriv

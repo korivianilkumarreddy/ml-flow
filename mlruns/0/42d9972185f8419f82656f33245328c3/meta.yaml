@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/42d9972185f8419f82656f33245328c3/artifacts
+end_time: 1750306624165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42d9972185f8419f82656f33245328c3
+run_name: orderly-crane-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750306623871
+status: 4
+tags: []
+user_id: koriv

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d600414d66734b8ba211eaf7e12ad2b2/artifacts
+end_time: 1750306726539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d600414d66734b8ba211eaf7e12ad2b2
+run_name: casual-moth-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750306725508
+status: 4
+tags: []
+user_id: koriv
