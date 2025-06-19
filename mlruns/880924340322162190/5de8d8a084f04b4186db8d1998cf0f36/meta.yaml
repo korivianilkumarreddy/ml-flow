@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/880924340322162190/5de8d8a084f04b4186db8d1998cf0f36/artifacts
+end_time: 1750333891046
+entry_point_name: ''
+experiment_id: '880924340322162190'
+lifecycle_stage: active
+run_id: 5de8d8a084f04b4186db8d1998cf0f36
+run_name: rumbling-croc-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750333882604
+status: 3
+tags: []
+user_id: koriv

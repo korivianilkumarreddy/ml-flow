@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/504387607631300924/f4aa334a196d44c68b5d0f4a48839817/artifacts
+end_time: 1750334210053
+entry_point_name: ''
+experiment_id: '504387607631300924'
+lifecycle_stage: active
+run_id: f4aa334a196d44c68b5d0f4a48839817
+run_name: inquisitive-doe-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750334204877
+status: 3
+tags: []
+user_id: koriv
