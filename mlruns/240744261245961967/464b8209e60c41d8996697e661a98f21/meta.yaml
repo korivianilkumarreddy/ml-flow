@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/464b8209e60c41d8996697e661a98f21/artifacts
+deleted_time: 1750339093381
+end_time: 1750338750022
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: deleted
+run_id: 464b8209e60c41d8996697e661a98f21
+run_name: brawny-worm-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750338742244
+status: 4
+tags: []
+user_id: koriv

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967
+creation_time: 1750337601039
+experiment_id: '240744261245961967'
+last_update_time: 1750337601039
+lifecycle_stage: active
+name: breast-cancer-rf-hp

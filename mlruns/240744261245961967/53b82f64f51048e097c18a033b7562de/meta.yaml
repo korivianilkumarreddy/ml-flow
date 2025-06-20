@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/53b82f64f51048e097c18a033b7562de/artifacts
+deleted_time: 1750339093371
+end_time: 1750337787639
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: deleted
+run_id: 53b82f64f51048e097c18a033b7562de
+run_name: luxuriant-bat-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337773914
+status: 4
+tags: []
+user_id: koriv

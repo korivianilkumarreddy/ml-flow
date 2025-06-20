@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/models/m-6df67326d7b549488dfb282d20207b14/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.0
+model_id: m-6df67326d7b549488dfb282d20207b14
+model_size_bytes: 317818
+model_uuid: m-6df67326d7b549488dfb282d20207b14
+prompts: null
+run_id: 9e2a16c0f3b84bef89cc876560f62d2e
+utc_time_created: '2025-06-19 12:57:36.414139'

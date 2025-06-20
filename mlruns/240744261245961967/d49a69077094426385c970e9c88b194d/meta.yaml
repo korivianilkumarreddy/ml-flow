@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/d49a69077094426385c970e9c88b194d/artifacts
+end_time: 1750339129543
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: active
+run_id: d49a69077094426385c970e9c88b194d
+run_name: clean-frog-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750339129376
+status: 3
+tags: []
+user_id: koriv

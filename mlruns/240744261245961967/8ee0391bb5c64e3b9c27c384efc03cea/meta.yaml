@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/8ee0391bb5c64e3b9c27c384efc03cea/artifacts
+end_time: 1750339128817
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: active
+run_id: 8ee0391bb5c64e3b9c27c384efc03cea
+run_name: monumental-auk-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750339128642
+status: 3
+tags: []
+user_id: koriv

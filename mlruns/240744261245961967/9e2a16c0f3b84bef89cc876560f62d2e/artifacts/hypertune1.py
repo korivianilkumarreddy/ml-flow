@@ -30,15 +30,8 @@ print(best_score)
 #Till here'''
 mlflow.set_experiment('breast-cancer-rf-hp')
 
-with mlflow.start_run() as parent:
+with mlflow.start_run():
     grid_search.fit(x_train,y_train)
-    # log all the child runs tooo
-    for i in range(len(grid_search.cv_results_['params'])):
-        with mlflow.start_run(nested=True) as child:
-            mlflow.log_params(grid_search.cv_results_["params"][i])
-            mlflow.log_metric("accuracy",grid_search.cv_results_["mean_test_score"][i])
-       
-
 
     #displaying the parametrs and the best score
     best_params = grid_search.best_params_

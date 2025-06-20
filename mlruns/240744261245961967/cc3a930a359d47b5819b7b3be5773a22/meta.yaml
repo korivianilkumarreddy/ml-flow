@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/cc3a930a359d47b5819b7b3be5773a22/artifacts
+deleted_time: 1750339093376
+end_time: 1750338803111
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: deleted
+run_id: cc3a930a359d47b5819b7b3be5773a22
+run_name: likeable-dove-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750338796598
+status: 4
+tags: []
+user_id: koriv

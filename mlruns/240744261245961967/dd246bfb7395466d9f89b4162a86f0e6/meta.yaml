@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/dd246bfb7395466d9f89b4162a86f0e6/artifacts
+end_time: 1750339129355
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: active
+run_id: dd246bfb7395466d9f89b4162a86f0e6
+run_name: respected-sloth-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750339129189
+status: 3
+tags: []
+user_id: koriv

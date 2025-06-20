@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/78ed1f07b2e74c2db7c6f6afd599d0c9/artifacts
+end_time: 1750339128992
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: active
+run_id: 78ed1f07b2e74c2db7c6f6afd599d0c9
+run_name: bold-ray-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750339128836
+status: 3
+tags: []
+user_id: koriv

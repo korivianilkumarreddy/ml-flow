@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/0e2c1e4c0392416ab9d8c84ead2c6640/artifacts
+end_time: 1750339130102
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: active
+run_id: 0e2c1e4c0392416ab9d8c84ead2c6640
+run_name: overjoyed-sow-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750339129944
+status: 3
+tags: []
+user_id: koriv

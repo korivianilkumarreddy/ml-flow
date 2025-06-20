@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/8a64e8e1129543bb9c1df7ba21f47337/artifacts
+deleted_time: 1750339093373
+end_time: 1750338606422
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: deleted
+run_id: 8a64e8e1129543bb9c1df7ba21f47337
+run_name: chill-loon-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750338599429
+status: 4
+tags: []
+user_id: koriv

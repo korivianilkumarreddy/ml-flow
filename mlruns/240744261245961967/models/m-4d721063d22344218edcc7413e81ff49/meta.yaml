@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/models/m-4d721063d22344218edcc7413e81ff49/artifacts
+creation_timestamp: 1750339130870
+experiment_id: '240744261245961967'
+last_updated_timestamp: 1750339142051
+model_id: m-4d721063d22344218edcc7413e81ff49
+model_type: null
+name: random_forest
+source_run_id: f9b479c86d044163a522c34f2962d186
+status: 2
+status_message: null

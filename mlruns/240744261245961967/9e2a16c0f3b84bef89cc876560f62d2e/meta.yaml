@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/9e2a16c0f3b84bef89cc876560f62d2e/artifacts
+end_time: 1750337862079
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: active
+run_id: 9e2a16c0f3b84bef89cc876560f62d2e
+run_name: tasteful-steed-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750337849696
+status: 3
+tags: []
+user_id: koriv

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/ff69cdbde79748d994be201535df91c0/artifacts
+end_time: 1750339128619
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: active
+run_id: ff69cdbde79748d994be201535df91c0
+run_name: marvelous-slug-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750339128423
+status: 3
+tags: []
+user_id: koriv

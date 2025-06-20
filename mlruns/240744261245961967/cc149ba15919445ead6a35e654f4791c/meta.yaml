@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/cc149ba15919445ead6a35e654f4791c/artifacts
+deleted_time: 1750339093392
+end_time: 1750338897644
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: deleted
+run_id: cc149ba15919445ead6a35e654f4791c
+run_name: dashing-goat-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750338891596
+status: 4
+tags: []
+user_id: koriv

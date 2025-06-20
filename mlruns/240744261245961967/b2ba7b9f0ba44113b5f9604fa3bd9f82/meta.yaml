@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/koriv/Desktop/mlops_folders/ml-flow/mlruns/240744261245961967/b2ba7b9f0ba44113b5f9604fa3bd9f82/artifacts
+end_time: 1750339128403
+entry_point_name: ''
+experiment_id: '240744261245961967'
+lifecycle_stage: active
+run_id: b2ba7b9f0ba44113b5f9604fa3bd9f82
+run_name: ambitious-croc-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750339128175
+status: 3
+tags: []
+user_id: koriv
